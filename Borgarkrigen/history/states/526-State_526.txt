@@ -1,0 +1,27 @@
+state={
+	id=526
+	name="STATE_526"
+	manpower=620
+
+	history={
+		owner = HAR
+		victory_points = { 8677 1 }
+		victory_points = { 14924 1 }
+		buildings = {
+			infrastructure = 3
+			8677 = {
+				naval_base = 2
+			}
+		}
+		
+		add_core_of = HAR
+	}
+
+	state_category = rural
+
+
+	provinces={
+		651 4180 8069 8454 8677 14497 14596 14736 14753 14867 14903 14923 14924 14975 
+	}
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,10 @@
+state={
+	id=192
+	name="STATE_192"
+	provinces={
+		75 1089 1414 3188 7964 8018 8164 8989 9079 12154 12950 12970 12980 13012 13058 13065 13109 13144 13191 
+	}
+	state_category = rural 
+    manpower=1
+	buildings_max_level_factor=1.000
+}

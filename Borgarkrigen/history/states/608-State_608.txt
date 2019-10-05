@@ -1,0 +1,25 @@
+state={
+	id=608
+	name="STATE_608"
+	manpower=3175
+	history={
+		owner = HAR
+		victory_points = { 15043 2 }
+		victory_points = { 9374 2 }
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			9374 = {
+				naval_base = 2
+			}
+		}
+		
+		add_core_of = HAR
+	}
+	state_category = rural
+
+	provinces={
+		683 744 1695 1896 2862 2996 3445 3446 4519 4927 5325 5631 6004 6229 6284 7161 7806 8575 8947 9374 9476 10030 10270 11493 11967 12062 12090 12335 15043 15071 15113 15124 15200 15201 15248 15262 15288 15289 15323 15350 15393 15555 15573 15595 15713 15723 15870 16163 16305 16306 16449 16519 16520 16661 16741 16806 16915 17053 17211 
+	}
+	buildings_max_level_factor=1.000
+}

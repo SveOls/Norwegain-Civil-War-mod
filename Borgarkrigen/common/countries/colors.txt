@@ -1,0 +1,9 @@
+TST = {
+	color = rgb { 57 113 228 }
+	color_ui = rgb { 74 147 255 }
+}
+
+HAR = {
+	color = rgb { 255  1  1 }
+	color_ui = rgb { 255  20  20 }
+}

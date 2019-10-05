@@ -1,0 +1,26 @@
+state={
+	id=712
+	name="STATE_712"
+	provinces={
+		2218 2749 3838 5016 6258 7113 8375 8431 9752 9952 10061 10366 10941 11092 11459 12172 16162 16193 16239 16324 16340 16359 16376 16401 16417 16465 16491 16492 16507 16518 16542 16543 16595 16621 16660 16729 16740 16823 16863 16864 16953 16993 17006 
+	}
+
+
+
+	history={
+		owner = HAR
+		victory_points = { 16376 3 }
+		buildings = {
+			infrastructure = 2
+		}
+		
+		add_extra_state_shared_building_slots = 2
+		
+		add_core_of = HAR
+	}
+
+	state_category = rural
+
+	manpower=652
+	buildings_max_level_factor=1.000
+}

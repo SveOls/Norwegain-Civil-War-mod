@@ -1,0 +1,10 @@
+state={
+	id=998
+	name="STATE_998"
+	provinces={
+		3960 4009 4673 6620 9051 21435 21455 21523 
+	}
+	state_category = rural 
+    manpower=1
+	buildings_max_level_factor=1.000
+}
