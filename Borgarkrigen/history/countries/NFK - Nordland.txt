@@ -98,7 +98,7 @@ set_stability = 0.7
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1975.10.11"
+	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes
 }
