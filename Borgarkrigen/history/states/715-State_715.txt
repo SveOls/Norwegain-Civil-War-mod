@@ -4,7 +4,27 @@ state={
 	provinces={
 		16041 16150 
 	}
-	state_category = rural 
-    manpower=1
 	buildings_max_level_factor=1.000
+
+	history={
+		owner = NFK
+		victory_points = { 16041 5 }
+		victory_points = { 16150 3 }
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			16041 = {
+				naval_base = 3
+			}
+
+		}		
+		add_core_of = NFK
+	}
+
+	state_category = city
+	manpower=12934
+	buildings_max_level_factor=1.000
+}
+
+
 }

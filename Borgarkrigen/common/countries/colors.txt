@@ -7,3 +7,9 @@ HAR = {
 	color = rgb { 255  1  1 }
 	color_ui = rgb { 255  20  20 }
 }
+
+
+NFK = {
+	color = rgb { 232  144  144 }
+	color_ui = rgb { 144  144  144 }
+}
