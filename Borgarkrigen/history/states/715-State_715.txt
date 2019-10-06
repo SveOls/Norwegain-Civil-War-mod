@@ -4,7 +4,6 @@ state={
 	provinces={
 		16041 16150 
 	}
-	buildings_max_level_factor=1.000
 
 	history={
 		owner = NFK
@@ -24,7 +23,4 @@ state={
 	state_category = city
 	manpower=12934
 	buildings_max_level_factor=1.000
-}
-
-
 }

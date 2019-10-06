@@ -4,7 +4,21 @@ state={
 	provinces={
 		2765 5415 5673 7673 15080 15231 15232 15356 15497 15520 15549 15633 15705 
 	}
-	state_category = rural 
-    manpower=1
+
+	history={
+		owner = NFK
+		victory_points = { 15549 3 }
+		buildings = {
+			infrastructure = 2
+			15549 = {
+				naval_base = 1
+			}
+
+		}		
+		add_core_of = NFK
+	}
+
+	manpower=1895
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
