@@ -24,7 +24,7 @@
  HAR_neutrality_ADJ:0 "Harding"
  HAR_communism_ADJ:0 "Harding"
  NFK_fascism:0 "Nordland"
- NFK_fascism_DEF:0 Nordland"
+ NFK_fascism_DEF:0 "Nordland"
  NFK_democratic:0 "Nordland county commune"
  NFK_democratic_DEF:0 "Nordland"
  NFK_neutrality:1 "Nordland"
