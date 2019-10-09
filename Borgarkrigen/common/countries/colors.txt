@@ -7,3 +7,24 @@ HAR = {
 	color = rgb { 255  1  1 }
 	color_ui = rgb { 255  20  20 }
 }
+
+
+NFK = {
+	color = rgb { 232  144  144 }
+	color_ui = rgb { 144  144  144 }
+}
+
+SWE = {
+	color = rgb { 36 132 247 }
+	color_ui = rgb { 47 172 255 }
+}
+
+FIN = {
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 255 255 255 }
+}
+
+SOV = {
+	color = rgb { 125 13 24 }
+	color_ui = rgb { 163 17 31 }
+}

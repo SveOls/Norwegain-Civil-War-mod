@@ -1,2 +1,3 @@
 TST = "countries/Test.txt"
-HAR = "countries/Hardanger.txt
+HAR = "countries/Hardanger.txt"
+NFK = "countries/Nordland.txt"

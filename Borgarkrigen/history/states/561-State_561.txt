@@ -5,7 +5,22 @@ state={
 	provinces={
 		598 1013 1079 2239 2242 2929 3147 3503 4018 5483 6471 6637 6717 6847 6859 7264 8919 9323 10041 11618 12020 12340 14623 14763 14901 14920 14995 15031 15041 15068 15120 15149 15195 15275 15285 15347 15388 15417 15444 15519 15616 15668 15770 15771 15785 15846 15913 15940 16040 16069 16085 16210 16220 16274 16388 
 	}
-	manpower=1
+
+	history={
+		owner = NFK
+		victory_points = { 15388 4 }
+		victory_points = { 15120 1 }
+		buildings = {
+			infrastructure = 2
+			15120 = {
+				naval_base = 1
+			}
+
+		}		
+		add_core_of = NFK
+	}
+
+	manpower=3245
 	buildings_max_level_factor=1.000
 	state_category=rural
 }
