@@ -4,6 +4,13 @@ state={
 	provinces={
 		698 
 	}
+		history={
+		owner = SWE
+		victory_points = { 698 1 }
+		buildings = {
+			infrastructure = 2
+		}		
+		add_core_of = SWE
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

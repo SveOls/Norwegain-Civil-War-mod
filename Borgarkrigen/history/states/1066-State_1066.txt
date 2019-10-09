@@ -4,6 +4,13 @@ state={
 	provinces={
 		1637 1833 1852 2622 2644 3482 3653 3682 3792 4163 4344 4454 4642 4855 4876 5467 5539 5596 5978 6579 6795 6856 6954 7229 7309 8423 8505 8796 9043 9587 9724 11472 11905 22498 22659 22670 22731 22747 22818 22842 22873 22882 22961 
 	}
+		history={
+		owner = SWE
+		victory_points = { 3682 1 }
+		buildings = {
+			infrastructure = 2
+		}		
+		add_core_of = SWE
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
