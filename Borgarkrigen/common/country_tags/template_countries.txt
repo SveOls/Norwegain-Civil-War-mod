@@ -1,3 +1,5 @@
 TST = "countries/Test.txt"
 HAR = "countries/Hardanger.txt"
+FNM = "countries/Finnmark.txt"
+TRO = "countries/Troms.txt"
 NFK = "countries/Nordland.txt"

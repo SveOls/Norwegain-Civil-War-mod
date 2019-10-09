@@ -4,6 +4,13 @@ state={
 	provinces={
 		27 2313 3245 3636 4882 6182 7425 8442 9046 9315 11376 17042 17203 17385 17406 17475 17484 17507 17529 17530 17598 17648 17675 17688 17699 17700 17716 17778 
 	}
+        history={
+        	owner = FNM
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = FNM
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
