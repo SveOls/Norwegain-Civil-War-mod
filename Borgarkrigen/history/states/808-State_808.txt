@@ -1,8 +1,15 @@
-state={
+ state={
 	id=808
 	name="STATE_808"
 	provinces={
 		648 3041 5175 7777 7906 9684 10053 10965 11367 17932 17947 17962 17974 18058 18084 18085 18188 18201 18202 18213 18242 18290 18348 18401 
+	}
+        history={
+        	owner = FNM
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = FNM
 	}
 	state_category = rural 
     manpower=1
