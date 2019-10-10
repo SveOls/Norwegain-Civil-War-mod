@@ -4,6 +4,14 @@ state={
 	provinces={
 		6239 9166 10445 11825 14686 14759 14812 14813 14854 14883 14930 15017 15063 15142 
 	}
+	history={
+		owner = NFK
+		buildings = {
+			infrastructure = 1
+
+		}		
+		add_core_of = NFK
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

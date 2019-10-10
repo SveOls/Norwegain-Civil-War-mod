@@ -4,6 +4,14 @@ state={
 	provinces={
 		2002 2503 2886 3376 3952 4381 7385 8271 9592 10873 10946 11259 15141 15175 15299 15365 15438 15439 15585 15663 15717 15731 15860 15909 16049 16062 16127 16145 16269 
 	}
+	history={
+		owner = NTR
+		buildings = {
+			infrastructure = 1
+
+		}		
+		add_core_of = NTR
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
