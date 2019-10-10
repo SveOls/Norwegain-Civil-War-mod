@@ -4,6 +4,13 @@ state={
 	provinces={
 		8139 8157 8741 10706 12219 12324 12452 12463 22822 22886 22897 22939 
 	}
+        history={
+        	owner = HED
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = OSL
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

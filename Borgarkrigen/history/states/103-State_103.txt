@@ -4,6 +4,13 @@ state={
 	provinces={
 		610 2340 2852 3072 3318 4424 4887 6243 7094 8307 8635 11327 11451 11634 11640 11815 12204 12635 12636 12641 12643 12657 12663 12673 12682 12691 12699 12700 12714 12717 12728 12732 12759 12771 12789 12810 12840 12868 12876 12877 12911 12918 12963 
 	}
+        history={
+        	owner = MRD
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = MRD
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

@@ -4,6 +4,13 @@ state={
 	provinces={
 		884 3279 3739 5601 5982 6005 11323 11903 15641 15659 15790 15896 15947 15965 16031 16109 16126 16229 16262 16395 16495 
 	}
+        history={
+        	owner = OPP
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = OPP
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

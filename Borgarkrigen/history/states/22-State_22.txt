@@ -4,6 +4,13 @@ state={
 	provinces={
 		812 1376 2309 2728 4082 5970 6360 6391 6660 7133 7195 7345 7771 7792 8443 8691 9103 9540 10340 12203 12207 12222 12523 12525 12530 12537 12550 12553 12555 12564 12565 12569 12571 12600 12601 12608 12620 12622 12624 12648 12651 12664 12671 12697 12710 
 	}
+        history={
+        	owner = SGF
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = SGF
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
