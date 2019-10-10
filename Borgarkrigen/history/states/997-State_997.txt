@@ -4,6 +4,13 @@ state={
 	provinces={
 		1026 2740 6730 7983 8367 10753 12480 21305 21337 21383 21436 21489 21524 21578 21612 21659 21707 21775 
 	}
+        history={
+        	owner = AAG
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = AAG
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

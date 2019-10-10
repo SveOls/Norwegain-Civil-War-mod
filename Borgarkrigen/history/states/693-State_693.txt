@@ -4,6 +4,13 @@ state={
 	provinces={
 		1110 2471 4497 5125 9433 9955 15921 15942 16446 16555 
 	}
+        history={
+        	owner = ROG
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = ROG
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
