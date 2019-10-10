@@ -4,6 +4,13 @@ state={
 	provinces={
 		469 2946 4704 4880 5032 5593 8278 8640 8652 9105 10388 11892 20249 20326 20354 20360 20436 20450 20457 20538 20539 20560 20658 20693 
 	}
+        history={
+        	owner = VAG
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = VAG
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

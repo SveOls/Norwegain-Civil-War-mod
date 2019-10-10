@@ -4,6 +4,13 @@ state={
 	provinces={
 		2850 2991 4684 12080 18371 18463 18577 
 	}
+        history={
+        	owner = VAG
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = VAG
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

@@ -5,6 +5,13 @@ state={
 	provinces={
 		6449 7179 7893 7982 22070 22193 22245 
 	}
+        history={
+        	owner = AKR
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = AKR
+	}
 	manpower=1
 	buildings_max_level_factor=1.000
 	state_category=rural
