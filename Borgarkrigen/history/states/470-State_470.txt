@@ -4,6 +4,13 @@ state={
 	provinces={
 		677 1453 2204 3465 4578 6423 6735 7402 8188 8807 8873 9129 9419 10083 14217 14254 14342 14356 14453 14454 14520 14581 14612 14655 14751 14785 14819 14865 14934 14971 14997 15008 15121 15122 15150 
 	}
+        history={
+        	owner = TRO
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = TRO
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
