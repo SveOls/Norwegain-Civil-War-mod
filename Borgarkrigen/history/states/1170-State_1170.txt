@@ -4,6 +4,13 @@ state={
 	provinces={
 		1990 3291 8345 9995 10304 11335 22782 22812 22839 22840 22860 22899 22929 22950 22963 
 	}
+        history={
+        	owner = OFO
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = OSL
+	}
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000
