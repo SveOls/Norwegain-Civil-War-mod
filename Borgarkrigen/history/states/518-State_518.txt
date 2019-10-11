@@ -6,12 +6,13 @@ state={
 		504 23990 
 	}
 	history={
-		owner = NFK
+		owner = ANF
+		victory_points = { 518 20 }
 		buildings = {
 			infrastructure = 1
 
 		}		
-		add_core_of = NFK
+		add_core_of = ANF
 	}
 	manpower=1
 	buildings_max_level_factor=1.000

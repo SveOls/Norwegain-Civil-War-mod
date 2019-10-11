@@ -28,3 +28,10 @@ SOV = {
 	color = rgb { 125 13 24 }
 	color_ui = rgb { 163 17 31 }
 }
+
+
+ANF = {
+	color = rgb { 255 2 2 }
+	color_ui = rgb { 244 10 10 }
+}
+
