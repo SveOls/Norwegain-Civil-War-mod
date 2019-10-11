@@ -13,6 +13,10 @@ state={
 
 		}		
 		add_core_of = ANF
+<<<<<<< Updated upstream
+=======
+		add_core_of = NFK
+>>>>>>> Stashed changes
 	}
 	manpower=1
 	buildings_max_level_factor=1.000
