@@ -2,8 +2,16 @@ state={
 	id=44
 	name="STATE_44"
 	provinces={
-		23845 
+		23845
 	}
+		history={
+		owner = SWE
+		buildings = {
+			infrastructure = 1
+		}		
+		add_core_of = SWE 
+	}
+
 	state_category = rural 
     manpower=1
 	buildings_max_level_factor=1.000

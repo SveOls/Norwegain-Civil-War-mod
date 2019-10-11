@@ -2,6 +2,15 @@ state={
 	id=524
 	name="STATE_524"
 	provinces={
+	23719 3340 1537
+	}
+	history={
+		owner = SWE
+		buildings = {
+			infrastructure = 1
+
+		}		
+		add_core_of = SWE
 	}
 	state_category = rural 
     manpower=1

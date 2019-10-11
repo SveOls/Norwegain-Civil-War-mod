@@ -1,9 +1,19 @@
+
 state={
 	id=466
 	name="STATE_466"
 	provinces={
+		2897 5176 7092 7628 8585 10451 11522 15129 15130 15161 15227 15268 15333 15479 
 	}
-	state_category = rural 
-    manpower=1
+	history={
+		owner = NFK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NFK
+	}
+	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
