@@ -1,4 +1,4 @@
-capital = 16247
+capital = 755
 
 set_research_slots = 3
 
@@ -97,7 +97,7 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = nazism
+	ruling_party = democratic
 	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes

@@ -1,9 +1,18 @@
+
 state={
 	id=505
 	name="STATE_505"
 	provinces={
+		529 1198 1199 2300 2884 3399 3527 3587 4797 5051 6405 8798 9713 10351 11163 11322 12414 15108 15197 15375 15454 15484 15635 15752 15881 15901 15994 15979 
 	}
-	state_category = rural 
-    manpower=1
+        history={
+        	owner = TRO
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = TRO
+	}
+	manpower=1
 	buildings_max_level_factor=1.000
+	state_category=rural
 }
