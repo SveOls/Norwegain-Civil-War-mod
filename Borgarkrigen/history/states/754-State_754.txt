@@ -5,11 +5,12 @@ state={
 		17 3208 4329 5516 5569 5704 5729 6467 6935 9372 10003 12017 16782 16800 16942 16964 17068 17104 17150 17243 17254 17305 17399 17411 17412 17434 17556 17671 17745 
 	}
 	history={
-		owner = NFK
+		owner = ANF
 		buildings = {
 			infrastructure = 1
 
-		}		
+		}
+		add_core_of = ANF		
 		add_core_of = NFK
 	}
 	state_category = rural 

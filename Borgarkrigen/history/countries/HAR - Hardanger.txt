@@ -107,7 +107,7 @@ set_popularities = {
 }
 
 create_country_leader = {
-	name = "Johan Nygaardsvold"
+	name = "Einar Tveit"
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"

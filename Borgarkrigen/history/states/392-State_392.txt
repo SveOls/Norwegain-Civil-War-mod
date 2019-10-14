@@ -5,12 +5,13 @@ state={
 		4397 8852 13933 13970 14029 14039 
 	}
 	history={
-		owner = NFK
+		owner = ANF
 		buildings = {
 			infrastructure = 1
 
 		}		
 		add_core_of = NFK
+		add_core_of = ANF
 	}
 	state_category = rural 
     manpower=1
