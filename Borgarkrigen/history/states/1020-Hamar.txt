@@ -1,0 +1,17 @@
+state={
+	id=1020
+	name="Hamar"
+	provinces={
+		9438 
+	}
+        history={
+        	owner = HED
+        	buildings = {
+            		infrastructure = 1
+        	}
+		add_core_of = OSL
+	}
+	state_category = city 
+    manpower=16353
+	buildings_max_level_factor=1.000
+}

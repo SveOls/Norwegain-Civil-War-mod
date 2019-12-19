@@ -97,13 +97,15 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = communism
+	ruling_party = maoism
 	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	communism = 100
+	maoism = 53
+	democratic_socialism = 27
+	Social_democracy = 20
 }
 
 create_country_leader = {
@@ -111,7 +113,18 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"
-	ideology = socialism
+	ideology = Generic_Socdem
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Einar Tveit"
+	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
+	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
+	expire = "2019.1.1"
+	ideology = Generic_DemSoc
 	traits = {
 		#
 	}
@@ -144,7 +157,7 @@ create_country_leader = {
 	desc = "POLITICS_ADAM_EGEDE_NISSEN_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "2019.1.1"
-	ideology = marxism
+	ideology = Generic_Maoism
 	traits = {
 		#
 	}
