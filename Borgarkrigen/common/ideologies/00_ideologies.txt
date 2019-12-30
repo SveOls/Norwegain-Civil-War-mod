@@ -110,7 +110,7 @@ ideologies = {
 
 
 
-	Maoism = {
+	Maoist = {
 		
 		types = {
 		
@@ -149,7 +149,7 @@ ideologies = {
 
 	}
 
-	Democratic_Socialism = {
+	DemSoc = {
 		
 		types = {
 		
@@ -189,7 +189,7 @@ ideologies = {
 	}
 
 
-	Social_Democracy = {
+	SocDem = {
 		
 		types = {
 		
@@ -210,7 +210,7 @@ ideologies = {
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
 		
-		ai_communist = yes # uses the commie AI behaviour
+		ai_democratic = yes # uses the democratic AI behaviour
 		
 		rules = {
 			can_force_government = no
@@ -226,6 +226,83 @@ ideologies = {
 			
 		}
 
+	}
+
+	SocLib = {
+		
+		types = {
+		
+			Generic_SocLib = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+		}
+		
+		color = { 0 153 255 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_democratic = yes # uses the democratic AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+	MarkLib = {
+		
+		types = {
+		
+			Generic_MarkLib = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_DEMOCRATIC_1"
+			"FACTION_NAME_DEMOCRATIC_2"
+			"FACTION_NAME_DEMOCRATIC_3"
+			"FACTION_NAME_DEMOCRATIC_4"
+			"FACTION_NAME_DEMOCRATIC_5"
+		}
+		
+		color = { 0 105 176 }
+		
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		modifiers = {
+			puppet_cost_factor = -0.3
+		}
+		
+		faction_modifiers = {
+			
+		}
 	}
 
 	

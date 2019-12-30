@@ -1,0 +1,33 @@
+﻿l_english:
+ #Parties
+ HAR_communism_party:0 "NKP"
+ HAR_communism_party_long:0 "NKP"
+ HAR_Maoist_party:0 "AKP(ml)"
+ HAR_Maoist_party_long:0 "Arbeidernes Kommunist parti (marxist-leninistene)"
+ HAR_SocDem_party:0 "DNA"
+ HAR_SocDem_party_long:0 "Det Norske arbeiderparti"
+ HAR_DemSoc_party:0 "SF"
+ HAR_DemSoc_party_long:0 "Sosialistisk Folkeparti"
+ #Ideas
+ HAR_Bergen_Ties:0 "Bergen Fish Dependency"
+ HAR_German_Ties_desc:0 "Our economy relies on fish!"
+ 
+ #Ministers
+ HAR_Siriza_dep:0 "Siriza"
+ HAR_Zaracas_sec:0 "Zaracas"
+ HAR_Klarken_for:0 "Klarken"
+ HAR_Vic_eco:0 "Vic"
+ 
+ #Leader bios
+ POLITICS_Einar_tveit_DESC:0 "Siriza is a furry"
+ 
+ #Tooltips
+HAR_Communist_Cabinet:0 "§YThe new Communist Cabinet will assume office§"
+
+ #Focuses
+ 
+ HAR_BRG_Red_Victory:0 "Red Victory!"
+
+ #Events
+ 
+HAR.1.t:0 "Banning anime"

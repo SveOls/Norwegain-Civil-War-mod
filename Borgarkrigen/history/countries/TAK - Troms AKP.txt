@@ -1,4 +1,4 @@
-﻿capital = 1267
+﻿capital = 595
 
 set_research_slots = 3
 
@@ -97,25 +97,21 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = SocDem
-	last_election = "1975.9.22"
+	ruling_party = communism
+	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-
-	communism = 19
-	SocDem = 58
-	DemSoc = 23
-
+	communism = 100
 }
 
 create_country_leader = {
-	name = "Kalevi Sorsa"
+	name = "Johan Nygaardsvold"
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
-	picture = "gfx/leaders/FIN/Portrait_FIN_Kalevi_Sorsa.dds"
+	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"
-	ideology = generic_socdem
+	ideology = socialism
 	traits = {
 		#
 	}
@@ -126,7 +122,7 @@ create_country_leader = {
 	desc = "POLITICS_VIDKUN_QUISLING_DESC"
 	picture = "Portrait_Norway_Vidkun_Quisling.dds"
 	expire = "2019.1.1"
-	ideology = Generic_SocLib
+	ideology = nazism
 	traits = {
 		#
 	}
@@ -137,7 +133,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_LUDWIG_MOWINCKEL_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "2019.1.1"
-	ideology = generic_MarkLib
+	ideology = centrism
 	traits = {
 		#
 	}
