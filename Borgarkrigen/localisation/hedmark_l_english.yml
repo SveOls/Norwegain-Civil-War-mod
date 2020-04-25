@@ -1,0 +1,14 @@
+l_english:
+ #Parties
+ HED_communism_party:0 "NKP"
+ HED_communism_party_long:0 "Norges Kommunistiske Parti"
+ HED_maoist_party:0 "AKP\(m\-l\)"
+ HED_maoist_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ HED_SocDem_party:0 "DNA"
+ HED_SocDem_party_long:0 "Det norske Arbeiderparti"
+ HED_DemSoc_party:0 "SV"
+ HED_DemSoc_party_long:0 "Sosialistisk Venstreparti"
+ HED_democratic_party:0 "SP"
+ HED_democratic_party_long:0 "Senterpartiet"
+ HED_neutrality_party:0 "Terningmoen"
+ HED_neutrality_party_long:0 "Terningmoen"

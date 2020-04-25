@@ -97,21 +97,21 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = communism
-	last_election = "1975.9.15"
-	election_frequency = 36
+	ruling_party = SocDem
+	last_election = "1976.9.9"
+	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	communism = 100
+	SocDem = 100
 }
 
 create_country_leader = {
-	name = "Johan Nygaardsvold"
+	name = "Sverre Kristian Fjeld"
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"
-	ideology = socialism
+	ideology = SocDem
 	traits = {
 		#
 	}
