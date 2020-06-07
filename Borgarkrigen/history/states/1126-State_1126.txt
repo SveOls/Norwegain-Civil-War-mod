@@ -12,6 +12,6 @@ state={
 		add_core_of = VFO
 	}
 	state_category = rural 
-    manpower=1
+    manpower=13535
 	buildings_max_level_factor=1.000
 }

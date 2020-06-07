@@ -2,7 +2,7 @@ state={
 	id=1196
 	name="STATE_1196"
 	provinces={
-		4828 22911 22932 22953 22969 22976 22984 23057 
+		4828 22911 22932 22953 22969 22976 22984 23057 8313 
 	}
         history={
         	owner = HED
@@ -12,6 +12,6 @@ state={
 		add_core_of = HED
 	}
 	state_category = rural 
-    manpower=1
+    manpower=10000
 	buildings_max_level_factor=1.000
 }

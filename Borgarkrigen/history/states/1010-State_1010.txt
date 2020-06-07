@@ -12,6 +12,6 @@ state={
 		add_core_of = OSL
 	}
 	state_category = rural 
-    manpower=1
+    manpower=2831
 	buildings_max_level_factor=1.000
 }
