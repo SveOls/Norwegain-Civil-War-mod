@@ -27,8 +27,8 @@
  #Parties
  BRG_communism_party:0 "NKP"
  BRG_communism_party_long:0 "Norges Kommunistiske Parti"
- BRG_maoism_party:0 "AKP\(m\-l\)"
- BRG_maoism_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ BRG_maoism_party:0 "AKP(m-l)"
+ BRG_maoism_party_long:0 "Arbeidernes Kommunistparti (marxist-leninistene)"
  BRG_SocDem_party:0 "DNA"
  BRG_SocDem_party_long:0 "Det norske Arbeiderparti"
  BRG_DemSoc_party:0 "SV"

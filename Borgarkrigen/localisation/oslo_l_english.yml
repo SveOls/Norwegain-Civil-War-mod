@@ -27,8 +27,8 @@
  #Parties
  OSL_communism_party:0 "NKP"
  OSL_communism_party_long:0 "Norges Kommunistiske Parti"
- OSL_maoism_party:0 "AKP\(m\-l\)"
- OSL_maoism_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ OSL_maoism_party:0 "AKP(m-l)"
+ OSL_maoism_party_long:0 "Arbeidernes Kommunistparti (marxist-leninistene)"
  OSL_SocDem_party:0 "DNA"
  OSL_SocDem_party_long:0 "Det norske Arbeiderparti"
  OSL_DemSoc_party:0 "SV"

@@ -28,8 +28,8 @@
  #Parties
  HRD_communism_party:0 "NKP"
  HRD_communism_party_long:0 "Norges Kommunistiske Parti"
- HRD_maoism_party:0 "AKP\(m\-l\)"
- HRD_maoism_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ HRD_maoism_party:0 "AKP(m-l)"
+ HRD_maoism_party_long:0 "Arbeidernes Kommunistparti (marxist-leninistene)"
  HRD_SocDem_party:0 "DNA"
  HRD_SocDem_party_long:0 "Det norske Arbeiderparti"
  HRD_DemSoc_party:0 "SV"

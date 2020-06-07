@@ -27,8 +27,8 @@
  #Parties
  VAG_communism_party:0 "NKP"
  VAG_communism_party_long:0 "Norges Kommunistiske Parti"
- VAG_maoism_party:0 "AKP\(m\-l\)"
- VAG_maoism_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ VAG_maoism_party:0 "AKP(m-l)"
+ VAG_maoism_party_long:0 "Arbeidernes Kommunistparti (marxist-leninistene)"
  VAG_SocDem_party:0 "DNA"
  VAG_SocDem_party_long:0 "Det norske Arbeiderparti"
  VAG_DemSoc_party:0 "SV"

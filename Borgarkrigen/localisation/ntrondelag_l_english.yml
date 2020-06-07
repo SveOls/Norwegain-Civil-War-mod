@@ -27,8 +27,8 @@
  #Parties
  NTR_communism_party:0 "NKP"
  NTR_communism_party_long:0 "Norges Kommunistiske Parti"
- NTR_maoism_party:0 "AKP\(m\-l\)"
- NTR_maoism_party_long:0 "Arbeidernes Kommunistparti \(marxist\-leninistene\)"
+ NTR_maoism_party:0 "AKP(m-l)"
+ NTR_maoism_party_long:0 "Arbeidernes Kommunistparti (marxist-leninistene)"
  NTR_SocDem_party:0 "DNA"
  NTR_SocDem_party_long:0 "Det norske Arbeiderparti"
  NTR_DemSoc_party:0 "SV"
