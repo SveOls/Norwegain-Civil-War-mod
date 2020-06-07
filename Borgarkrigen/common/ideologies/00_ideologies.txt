@@ -1,10 +1,12 @@
 ideologies = {
 	
-	conservatism = {
+	democratic = {
 	
 		types = {
 			
 			generic_conservatism = {
+			}
+			centrism = {
 			}
 		
 		}
@@ -149,6 +151,8 @@ ideologies = {
 		types = {
 		
 			generic_demsoc = {
+			}
+			socialism = {
 			}
 		}
 		
@@ -312,11 +316,11 @@ ideologies = {
 			fascism_ideology = {
 			}
 			
-#			falangism = {
-#			}
-#			
-#			rexism = {
-#			}
+			falangism = {
+			}
+			
+			rexism = {
+			}
 		}
 		
 		dynamic_faction_names = {
@@ -358,8 +362,6 @@ ideologies = {
 			moderatism = {
 			}
 			
-			centrism = {
-			}
 		}
 
 		dynamic_faction_names = {
