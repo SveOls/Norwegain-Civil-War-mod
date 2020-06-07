@@ -102,7 +102,14 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	communism = 100
+	maoism = 33
+	demsoc = 17
+	socdem = 20
+	communism = 10
+	fascism = 5
+	neutrality = 5
+	soclib = 5
+	conservatism = 5
 }
 
 create_country_leader = {

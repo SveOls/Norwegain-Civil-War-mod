@@ -105,8 +105,8 @@ set_politics = {
 set_popularities = {
 
 	communism = 19
-	SocDem = 58
-	DemSoc = 23
+	socdem = 58
+	demsoc = 23
 
 }
 

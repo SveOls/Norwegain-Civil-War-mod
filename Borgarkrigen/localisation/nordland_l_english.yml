@@ -1,0 +1,29 @@
+﻿l_english:
+ ##County
+ #Names
+ NFK_fascism:0 "Nordland"
+ NFK_fascism_DEF:0 "Nordland"
+ NFK_conservatism:0 "Nordland County Commune"
+ NFK_conservatism_DEF:0 "Nordland"
+ NFK_neutrality:1 "Nordland"
+ NFK_neutrality_DEF:1 "Nordland"
+ NFK_communism:0 "Nordland Peoples Fylke"
+ NFK_communism_DEF:0 "Nordland Peoples Fylke"
+ NFK_fascism_ADJ:0 "Nordlending"
+ NFK_conservatism_ADJ:0 "Nordlending"
+ NFK_neutrality_ADJ:0 "Nordlending"
+ NFK_communism_ADJ:0 "Nordlending"
+ ##AKP revolt
+ #Names
+ ANF_fascism:0 "Nordland"
+ ANF_fascism_DEF:0 "Nordland"
+ ANF_conservatism:0 "Nordland County commune"
+ ANF_conservatism_DEF:0 "Nordland"
+ ANF_neutrality:1 "Nordland"
+ ANF_neutrality_DEF:1 "Nordland"
+ ANF_communism:0 "Nordland Peoples Fylke"
+ ANF_communism_DEF:0 "Nordland Peoples Fylke"
+ ANF_fascism_ADJ:0 "Nordlending"
+ ANF_conservatism_ADJ:0 "Nordlending"
+ ANF_neutrality_ADJ:0 "Nordlending"
+ ANF_communism_ADJ:0 "Nordlending"

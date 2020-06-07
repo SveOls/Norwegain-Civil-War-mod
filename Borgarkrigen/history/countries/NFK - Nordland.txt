@@ -97,13 +97,20 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = generic_conservatism
 	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 100
+	maoism = 5
+	demsoc = 5
+	socdem = 20
+	communism = 5
+	fascism = 5
+	neutrality = 5
+	soclib = 15
+	conservatism = 40
 }
 
 create_country_leader = {
@@ -133,7 +140,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_LUDWIG_MOWINCKEL_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
 	expire = "2019.1.1"
-	ideology = centrism
+	ideology = conservatism
 	traits = {
 		#
 	}

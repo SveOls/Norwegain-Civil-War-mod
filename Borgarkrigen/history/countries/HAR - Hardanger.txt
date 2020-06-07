@@ -97,16 +97,20 @@ set_convoys = 200		# biggest merchant marine in the world
 set_stability = 0.7
 
 set_politics = {
-	ruling_party = maoist
+	ruling_party = maoism
 	last_election = "1975.9.15"
 	election_frequency = 36
 	elections_allowed = yes
 }
 set_popularities = {
-	maoist = 53
-	DemSoc = 17
-	SocDem = 20
-	Communism = 10
+	maoism = 33
+	demsoc = 17
+	socdem = 20
+	communism = 10
+	fascism = 5
+	neutrality = 5
+	soclib = 5
+	conservatism = 5
 }
 
 create_country_leader = {
@@ -114,7 +118,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"
-	ideology = Generic_Socdem
+	ideology = generic_socdem
 	traits = {
 		#
 	}
@@ -136,7 +140,7 @@ create_country_leader = {
 	desc = "POLITICS_JOHAN_NYGAARDSVOLD_DESC"
 	picture = "Portrait_Norway_Johan_Nygaardsvold.dds"
 	expire = "2019.1.1"
-	ideology = Generic_DemSoc
+	ideology = generic_demsoc
 	traits = {
 		#
 	}
@@ -169,7 +173,7 @@ create_country_leader = {
 	desc = "POLITICS_ADAM_EGEDE_NISSEN_DESC"
 	picture = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
 	expire = "2019.1.1"
-	ideology = Generic_Maoism
+	ideology = generic_maoism
 	traits = {
 		#
 	}
