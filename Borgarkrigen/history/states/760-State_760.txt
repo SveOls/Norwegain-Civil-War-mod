@@ -13,6 +13,6 @@ state={
 		add_core_of = NTR
 	}
 	state_category = rural 
-    manpower=1
+    manpower=5491
 	buildings_max_level_factor=1.000
 }

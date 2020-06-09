@@ -1,4 +1,4 @@
-state={
+	state={
 	id=733
 	name="STATE_733"
 	provinces={
@@ -13,6 +13,6 @@ state={
 		add_core_of = STR
 	}
 	state_category = rural 
-    manpower=1
+    manpower=6165
 	buildings_max_level_factor=1.000
 }

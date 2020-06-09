@@ -12,6 +12,6 @@ state={
 		add_core_of = BSK
 	}
 	state_category = rural 
-    manpower=1
+    manpower=1526
 	buildings_max_level_factor=1.000
 }

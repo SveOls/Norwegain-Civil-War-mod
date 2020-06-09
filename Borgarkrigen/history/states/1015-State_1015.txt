@@ -5,7 +5,7 @@ state={
 		1014 5562 7109 21708 
 	}
 	state_category = rural 
-    manpower=1
+    manpower=10000
         history={
         	owner = BSK
         	buildings = {

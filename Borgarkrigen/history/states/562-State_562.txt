@@ -13,6 +13,6 @@ state={
 		add_core_of = STR
 	}
 	state_category = rural 
-    manpower=1
+    manpower=9649
 	buildings_max_level_factor=1.000
 }
